@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    width: 100%;
+    height: 70px;
+}
+body{
+    background-color:rgba(111, 111, 111, 0.537);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    display: flex;
+    gap: 30px;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+.nav{
+    height: 70px;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+.box{
+    justify-content: space-between;
+    display: flex;
+    background-color: white;
+    width: 600px;
+    height: 400px;
+}
+.nav a{
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    background-color: orange;
+    height: 40px;
+    width: 170px;
+}
+.box img{
+    height: 400px;
+    width: 250px;
+}
+.continer{
+    gap: 30px;
+    margin-top: 20px;
+    justify-content: space-around;
+    display: flex;
+    height: 400px;
+    width: 100%;
+}
+.box small {
+    display: block;
+    text-align: center;
+    color: orange;
+}
+.xat{
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+p{
+    margin-top: 10px;
+    margin-left:20px ;
+    opacity: 0.4;
+}
+.xat h1{
+    font-size: 25px;
+}
+button{
+    margin-top: 70px;
+    background-color: rgb(164, 165, 165);
+    border-radius: 50px;
+    border: none;
+    height: 40px;
+    width: 100px;
+}
