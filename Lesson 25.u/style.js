@@ -41,13 +41,13 @@
 // console.log(Object.values(kitob))
 // console.log(Object.entries(kitob))
 
-let xodim = {
-    ism: "Bekzod",
-    kasb: "marketing",
-    ish_joyi:{
-        manzil: "Mountain View",
-        kompaniya: "Google",
-    }
-}
-console.log(xodim)
-console.log(xodim.ish_joyi.kompaniya)
+// let xodim = {
+//     ism: "Bekzod",
+//     kasb: "marketing",
+//     ish_joyi:{
+//         manzil: "Mountain View",
+//         kompaniya: "Google",
+//     }
+// }
+// console.log(xodim)
+// console.log(xodim.ish_joyi.kompaniya)
